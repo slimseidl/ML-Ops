@@ -1,7 +1,9 @@
 #Submission Details:
 
 W&B: https://wandb.ai/john_seidl-western-governors-university/nyc_airbnb
+
 GitHub Repo: https://github.com/slimseidl/ML-Ops
+
 Release Version: 1.0.1
 
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
